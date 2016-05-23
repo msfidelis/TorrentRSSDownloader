@@ -1,9 +1,11 @@
 # TorrentRSSDownloader
-Script/Daemon que eu diz em Python para baixar todos os novos episódios de Game of Thrones por Torrent. Mas na verdade você pode utilizar em qualquer série ;) #NãoSouResponsávelPeloUsoDessaParada
+Script/Daemon que eu fiz em Python para baixar todos os novos episódios de Game of Thrones por Torrent. Mas na verdade você pode utilizar em qualquer série ;) #NãoSouResponsávelPeloUsoDessaParada
+
+Mais RSS: https://showrss.info/?cs=feeds
 
 #Dependências 
 
-* python-libtorrent
+* python-libtorrent 0.16.18.0
 
 ```
   # sudo apt-get build-dep python-libtorrent
