@@ -28,7 +28,6 @@ def checknew():
 
             if newHash == lastHash:
                 #print newHash, lastHash
-                downloadtorrent(feeds.entries[0].link)
                 time.sleep(sleeptime)
             else:
                 downloadtorrent(feeds.entries[0].link)
