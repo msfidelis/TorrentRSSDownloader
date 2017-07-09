@@ -3,7 +3,7 @@ Script/Daemon que eu fiz em Python para baixar todos os novos episódios de Game
 
 Mais RSS: https://showrss.info/?cs=feeds
 
-#Dependências 
+# Dependências 
 
 * python-libtorrent 0.16.18.0
 
@@ -19,13 +19,13 @@ Ou compile a source: https://coderwall.com/p/muvnow/installing-libtorrent-on-lin
   # sudo pip install feedparser
 ```
 
-#Instalando o projeto 
+# Instalando o projeto 
 
 ```
   # git clone https://github.com/msfidelis/TorrentRSSDownloader.git
 ```
 
-#Observações:
+# Observações:
 Criei o projeto inicialmente para ser uma especie de Daemon no sistema, para que ele ficasse rodando em background em um servidor caseiro que eu tenho aqui em casa, lendo o feed de hora em hora para ver se existem novos itens.
 Existem muitas formas de fazer isso, lá vai:
 
