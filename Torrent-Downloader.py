@@ -5,7 +5,7 @@ import libtorrent as lt
 import time
 
 #Game of Thrones
-feedRSS = "http://showrss.info/feeds/350.rss"
+feedRSS = "https://showrss.info/show/262.rss"
 lastHash = None
 savePath = '/home/matheus/Downloads/Teste'
 sleeptime = 3600 
